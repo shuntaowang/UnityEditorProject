@@ -1,2 +1,1 @@
-# UnityEditorProject
-自己用来做完善unity编辑器的脚本工程
+这是我的编辑器脚本放的工程文件位置
